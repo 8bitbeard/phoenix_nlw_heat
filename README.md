@@ -1,4 +1,4 @@
-# PhoenixNlwHeat
+# Phoenix NLW Heat API
 
 To start your Phoenix server:
 
